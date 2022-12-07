@@ -1,4 +1,12 @@
 class BirdsController < ApplicationController
+  
+  # POST /birds
+  def create
+    byebug
+  end
+
+  # etc
+end
 
   # GET /birds
   def index
